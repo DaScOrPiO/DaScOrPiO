@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DaScOrPiO
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on anything programming or web development related
-- 📫 you can reach me via Dunni82@yahoo.com or @twitter.com/Oladunni_faith
+Hello! And welcome to my portfolio,
+My name is Faith AKA DaScOrPiO,
+I'm a frontend developer and freelancer,
+You can contact me through email via DUNI82@YAHOO.COM,
+And on twitter via https//twitter.com/oladunni_faith.
