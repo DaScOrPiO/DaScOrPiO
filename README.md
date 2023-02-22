@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dascorpio&label=Profile%20views&color=0e75b6&style=flat" alt="dascorpio" /> </p>
 
-<p align="center"> <a href="https://twitter.com/dascorpio" target="blank"><img src="https://custom-icon-badges.demolab.com/twitter/follow/dascorpio?logo=twitter&style=for-the-badge" alt="dascorpio" /></a> </p>
+<p align="center"> <a href="https://twitter.com/oladunni_faith" target="blank"><img src="https://custom-icon-badges.demolab.com/twitter/follow/dascorpio?logo=twitter&style=for-the-badge" alt="dascorpio" /></a> </p>
 
 - 🌱 I’m currently learning **NextJs, Firebase, DSA**
 
@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dascorpio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dascorpio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faith oladunni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith oladunni" height="30" width="40" /></a>
-<a href="https://hashnode.com/dascorpio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dascorpio" height="30" width="40" /></a>
+<a href="https://twitter.com/oladunni_faith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dascorpio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faith-oladunni-54ab8920b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith oladunni" height="30" width="40" /></a>
+<a href="https://hashnode.com/@DaScOrPiO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dascorpio" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dascorpio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dascorpio" height="30" width="40" /></a>
 </p>
 
