@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **NextJs, Firebase, DSA**
 
-- 👨‍💻 All of my projects are available at [https://oladunni.netlify.app](https://oladunni.netlify.app)
+- 👨‍💻 All of my projects are available at [My website](https://oladunni.netlify.app)
 
-- 📝 I regularly write articles on [https://techzodiac.hashnode.dev/](https://techzodiac.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://techzodiac.hashnode.dev/)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **dunni82@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/faith-oladunni-54ab8920b/](https://www.linkedin.com/in/faith-oladunni-54ab8920b/)
+- 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/faith-oladunni-54ab8920b/)
 
 - ⚡ Fun fact: **I love Zodiacs, meeting new people, travelling, movies & anime**
 
