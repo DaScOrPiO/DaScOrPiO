@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DaScOrPiO - https://github.com/DaScOrPiO/readme-typing-svg -->
   <a href="https://github.com/DaScOrPiO/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=A+Frontend+web+developer;with+2%2B+years+coding+experience;Committed+to+utilizing+my+skills+to+bring+technological+solutions;I'm+always+learning+new+things" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=707070&center=true&vCenter=true&width=1000&height=100&lines=A+Frontend+web+developer;with+2%2B+years+coding+experience;Committed+to+utilizing+my+skills+to+bring+technological+solutions;I'm+always+learning+new+things" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dascorpio&label=Profile%20views&color=0e75b6&style=flat" alt="dascorpio" /> </p>
