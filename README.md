@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://twitter.com/oladunni_faith" target="blank"><img src="https://custom-icon-badges.demolab.com/twitter/follow/dascorpio?logo=twitter&style=for-the-badge" alt="dascorpio" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, Firebase, DSA**
+- 🌱 I’m currently learning **Databases, NextJs, DSA**
 
 - 👨‍💻 All of my projects are available at [My website](https://oladunni.netlify.app)
 
