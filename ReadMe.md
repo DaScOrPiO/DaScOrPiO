@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Hashnode](https://techzodiac.hashnode.dev/)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything**. 
 
 - 📫 How to reach me **dunni82@yahoo.com**
 
