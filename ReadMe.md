@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **anything**. 
 
-- 📫 How to reach me **dunni82@yahoo.com**
+- 📫 How to reach me **dunni82@yahoo.com**. 
 
 - 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/faith-oladunni-54ab8920b/)
 
