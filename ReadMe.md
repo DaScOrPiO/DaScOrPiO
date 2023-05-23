@@ -24,7 +24,7 @@
 
 - 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/faith-oladunni-54ab8920b/)
 
-- ⚡ Fun fact: **I love Zodiacs, meeting new people, travelling, movies & anime**
+- ⚡ Fun fact: **I love Zodiacs, meeting new people, travelling, movies & anime**.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dascorpio" alt="dascorpio" /></a> </p>
 
