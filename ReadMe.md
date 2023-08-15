@@ -16,7 +16,7 @@
 
 - 👨‍💻 Currently working on Taskmate [Link available soon](https://#)
 
-- 📝 I regularly write articles on [Hashnode](https://techzodiac.hashnode.dev/)
+- 📝 I write articles on [Hashnode](https://techzodiac.hashnode.dev/)
 
 - 💬 Ask me about **anything**. 
 
