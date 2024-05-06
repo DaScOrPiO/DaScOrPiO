@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [My website](https://oladunni.netlify.app)
 
-- 👨‍💻 Currently working on Taskmate [Link available soon](https://#)
+- 👨‍💻 Currently working on Taskify [Link available soon](https://#)
 
 - 📝 I write articles on [Hashnode](https://techzodiac.hashnode.dev/)
 
